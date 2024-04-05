@@ -1,5 +1,4 @@
-# PASScript
-# WorkDay Account Creation Automation
+# PASScript (WorkDay Account Creation Automation)
 
 ## Overview
 
