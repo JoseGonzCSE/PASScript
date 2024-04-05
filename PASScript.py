@@ -4,7 +4,7 @@ import pyautogui # keybord/mouse
 import time # for pauses
 
 #Create Account Information
-email="j.andresgonzalez1010@gmail.com"
+email="testEmail@gmail.com"
 passwordLength=17
 passwordLetters=string.ascii_letters
 passwordDigits=string.digits
